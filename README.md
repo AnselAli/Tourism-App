@@ -31,68 +31,6 @@ Watch the demo:
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1️⃣ Install dependencies
-
-```bash
-npm install
-```
-
-### 2️⃣ Start the development server
-
-```bash
-npx expo start
-```
-
----
-
-## 📲 Run the App
-
-Once the server starts, you can open the app using:
-
-- 📱 **Expo Go**
-- 🤖 **Android Emulator**
-- 🍎 **iOS Simulator**
-- 🛠 **Development Build**
-
----
-
-## 🗂 Project Structure
-
-```
-exploreTT/
-│
-├── app/                # Main application screens
-├── assets/             # Images, icons, fonts
-├── components/         # Reusable UI components
-├── constants/          # App constants
-├── hooks/              # Custom hooks
-├── app-example/        # Starter example (after reset)
-└── package.json
-```
-
-This project uses **Expo Router** with **file-based routing**.
-
----
-
-## 🔄 Reset Project
-
-If you want to start fresh:
-
-```bash
-npm run reset-project
-```
-
-This will:
-
-- Move starter code → `app-example`
-- Create a clean `app` directory
-
----
-
 ## 📚 Learn More
 
 Helpful resources:
@@ -117,17 +55,6 @@ Join the Expo community:
 - **React Native**
 - **Expo Router**
 - **JavaScript / TypeScript**
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repository  
-2. Create a new branch  
-3. Commit your changes  
-4. Submit a pull request  
 
 ---
 
