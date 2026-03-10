@@ -2,7 +2,6 @@
 
 ![Expo](https://img.shields.io/badge/Expo-React%20Native-black?logo=expo)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 
 > Discover the beauty, culture, and hidden gems of **Trinidad & Tobago** through a modern mobile experience.
